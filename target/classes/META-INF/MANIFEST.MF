@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: rollingstone_airline_api_spring_java_config
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Caree2
+Implementation-Vendor-Id: com.rollingstone
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/rollingstone
+ _airline_api_spring_java_config/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
